@@ -1,23 +1,21 @@
 # WeatherML
 
-### 東京の天気予測モデル
+## 東京の天気予測モデル
 
-## 概要
+### 概要
 
 このプロジェクトは、気象庁のデータと機械学習アルゴリズムを用いて、東京の最高気温を予測することを目的としています。
 
 ---
 
-## 使用方法
-
-# 前提条件
+### 前提条件
 
 - Python 3.x
 - Pandas
 - NumPy
 - Scikit-Learn
 
-## インストール
+### インストール
 
 1. このリポジトリをクローンします。
 
@@ -27,7 +25,7 @@ git clone https://github.com/isami-kajiyama/WeatherML.git
 
 pip install -r requirements.txt
 
-## 使用コマンド
+### 使用コマンド
 
 モデルを実行するには、以下のコマンドを使用してください。
 
